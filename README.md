@@ -1,0 +1,3 @@
+# pRental
+Rent a vehicle system | Rent any type of vehicle!  **Features:**  With this script you can easily configure a rental of vehicles, cars, boats or any vehicle you want. In addition to the location and the vehicles you can also choose to configure the license plate.  * Optimized  * Easy to config * Easy to use  Installation  1. Download the recource 2. Put the script in the resources folder 3. Add this to your server.cfg:  ``` ensure pRental ``` Download: Here  If you find any mistake, have ideas for the resource, you can contact me on: PinkJoyyy#0337
+My discord: https://discord.gg/ejwrqGvQ
